@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Class-Path: /libs/LupanBot 2.0-1.0-all.jar
+Main-Class: me.ryan.yibotv2.Main
+
